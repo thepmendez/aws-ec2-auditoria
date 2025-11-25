@@ -1,0 +1,15 @@
+# credenciales
+.env
+
+# entorno virtual
+venv/
+.env.local
+
+# caches de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# otros
+*.log
